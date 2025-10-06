@@ -13,7 +13,6 @@ Key features:
 - Server-side proxy to avoid CORS: `/api/proxy/*` → BACKEND_URL
 
 ## 1) Local Setup
-
 Option A — Vercel (recommended)
 1. Click “Download ZIP” from v0 to get the project.
 2. Import the project into Vercel or run “Publish” from v0.
